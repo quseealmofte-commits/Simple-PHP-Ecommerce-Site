@@ -126,6 +126,6 @@ http://localhost/PHP---Ecommerce-Learning-Project/
 ## 🗓️ Project Completion Date
 
 **June 09, 2025**
-
+Project setup for the final practical assignment.
 
 
