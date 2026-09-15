@@ -127,5 +127,6 @@ http://localhost/PHP---Ecommerce-Learning-Project/
 
 **June 09, 2025**
 Project setup for the final practical assignment.
+Update by teammate
 
 
